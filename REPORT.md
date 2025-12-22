@@ -59,7 +59,7 @@ All team members collaborated on the core strategy design and implementation. Be
 | Strategy Studio Configuration & VM Setup | Keshav |
 | Backtesting Infrastructure | Keshav |
 | Strategy Improvements & Refinements | Timothy, Mahir, Bora |
-| Bug Fixes & Testing | Mahir, Keshav |
+| Bug Fixes & Testing | Mahir, Keshav,Bora |
 | Visualization & Analysis | Timothy, Bora |
 | Final Report & Demo Video | Mahir, Keshav |
 
