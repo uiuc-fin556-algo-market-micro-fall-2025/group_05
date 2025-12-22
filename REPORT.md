@@ -14,11 +14,11 @@ Our backtesting infrastructure successfully processes IEX DEEP market data and e
 
 #### Keshav Ramamurthy
 
-<img src="[PLACEHOLDER_HEADSHOT_KESHAV]" width="200" height="200">
+<img src="assets/keshav_headshot.png" width="200" height="200">
 
-[PLACEHOLDER_BIO_KESHAV]
+I am a junior, expected to graduate in May 2027, attending the University of Illinois at Urbana-Champaign for Computer Science + Advertising. Working as a Founding Engineer for Gondor, I'm the Co-President of Illini Blockchain and heavily interested in cryptocurrency, blockchain technology, decentralized finance and trading. I'm a backend and smart contract developer with my main tech stack being in TypeScript, Solidity, C++, Python and Rust.
 
-[LinkedIn]([PLACEHOLDER]), [Github]([PLACEHOLDER]), [Email]([PLACEHOLDER])
+[LinkedIn](https://linkedin.com/keshav-ramamurthy), [Github](https://github.com/keshramamurthy), [Email](kesh.ramamurthy@gmail.com)
 
 #### Timothy Rolshud
 
