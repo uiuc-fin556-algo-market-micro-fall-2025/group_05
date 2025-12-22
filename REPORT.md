@@ -2,7 +2,7 @@
 
 ## 1. Abstract
 
-In high-frequency trading (HFT), market microstructure signals provide valuable insights into short-term price movements. Order book imbalance—the difference between buy-side and sell-side liquidity—has been hypothesized to predict imminent price direction. When bid-side liquidity significantly outweighs ask-side liquidity, prices tend to rise, and vice versa.
+In high-frequency trading (HFT), market microstructure signals provide valuable insights into short-term price movements. Order book imbalance, which is the difference between buy-side and sell-side liquidity, has been hypothesized to predict imminent price direction. When bid-side liquidity significantly outweighs ask-side liquidity, prices tend to rise, and vice versa.
 
 We present a Weighted Order Book Imbalance (WOBI) momentum strategy implemented in RCM Strategy Studio. Unlike simple top-of-book imbalance indicators, our approach analyzes multiple price levels with distance-weighted contributions, providing a more robust signal. The strategy enters long positions when imbalance exceeds a threshold for a configurable number of consecutive ticks, and exits when imbalance reverses.
 
