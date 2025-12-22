@@ -22,27 +22,32 @@ I am a junior, expected to graduate in May 2027, attending the University of Ill
 
 #### Timothy Rolshud
 
-<img src="[PLACEHOLDER_HEADSHOT_TIM]" width="200" height="200">
+<img src="assets/tim_headshot.jpg" width="200" height="200">
 
-[PLACEHOLDER_BIO_TIM]
+I am an undergraduate student at the University of Illinois Urbana-Champaign pursuing a BSLAS in Statistics and Computer Science, expected graduation May 2027. Full-stack software engineer and clean code practitioner. Open to internship opportunities and part-time roles during studies, seeking full-time positions starting May 2027.
 
-[LinkedIn]([PLACEHOLDER]), [Github]([PLACEHOLDER]), [Email]([PLACEHOLDER])
+LinkedIn: https://www.linkedin.com/in/tim-rolsh-492088261/
+
+GitHub: https://github.com/timrolsh
 
 #### Mahir Sabharwal
 
-<img src="[PLACEHOLDER_HEADSHOT_MAHIR]" width="200" height="200">
+I’m a junior at the University of Illinois Urbana-Champaign studying Math and Computer Science. I intend to graduate in 2027.
+I am interested in quantitative finance and artificial intelligence.
+I am looking for internships in Summer 2026 for Software Engineering roles and I am available for part-time opportunities during the semester.
 
-[PLACEHOLDER_BIO_MAHIR]
-
-[LinkedIn]([PLACEHOLDER]), [Github]([PLACEHOLDER]), [Email]([PLACEHOLDER])
+**Links**
+LinkedIn: https://www.linkedin.com/in/mahirsabharwal/
+GitHub: https://github.com/mahirs7
 
 #### Bora Koyuncuoglu
 
-<img src="[PLACEHOLDER_HEADSHOT_BORA]" width="200" height="200">
+<img src="assets/bora_headshot.png" width="200" height="200">
 
-[PLACEHOLDER_BIO_BORA]
+I’m an undergraduate student at the University of Illinois Urbana-Champaign pursuing a B.S. in Computer Science + Learning Sciences, with an expected graduation in May 2027. I have over two years of experience as an active trader and full-stack developer, during which I’ve built and deployed multiple live trading strategies and consistently traded crypto perpetuals profitably. On campus, I previously served as Vice President of Operations for the blockchain club and currently lead the Algorithmic Trading team, where I oversee strategy development and technical execution. I’m currently open to opportunities and eager to gain hands-on professional experience in finance, trading, or quantitative technology roles. 
 
-[LinkedIn]([PLACEHOLDER]), [Github]([PLACEHOLDER]), [Email]([PLACEHOLDER])
+**Links**
+LinkedIn: https://www.linkedin.com/in/bora-koyuncuoglu-3b7732256/
 
 ### 2.2 Division of Work
 
