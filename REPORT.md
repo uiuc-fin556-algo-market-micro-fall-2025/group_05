@@ -31,6 +31,7 @@ LinkedIn: https://www.linkedin.com/in/tim-rolsh-492088261/
 GitHub: https://github.com/timrolsh
 
 #### Mahir Sabharwal
+<img src="assets/mahir_headshot.png" width="200" height="200">
 
 I’m a junior at the University of Illinois Urbana-Champaign studying Math and Computer Science. I intend to graduate in 2027.
 I am interested in quantitative finance and artificial intelligence.
